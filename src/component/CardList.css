@@ -1,0 +1,13 @@
+.card{
+    border: 1px solid rgb(142, 84, 233);
+}
+.dummy-card-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+.card-box{
+    padding: 20px;
+}
+.dummy-card-detail{
+    font-size: 14px;
+}

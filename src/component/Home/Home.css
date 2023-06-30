@@ -1,0 +1,62 @@
+.section1{
+    background-image: 
+    url(
+  "../../assets/Images/Polygonfirst.png"),url("../../assets/Images/Polygonsec.png");
+    background-size: "cover";
+    height: 150vh;
+    margin-top: -57px;
+    background-repeat:no-repeat;
+    background-position: left center, right top;
+    display: flex;
+    align-items: center;
+}
+
+.first-section p{
+    color: #fff;
+}
+.banner-heading{
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+}
+.back-img{
+    position: absolute;
+    top: 2.5rem;
+}
+.comp-1{
+  position: relative;
+ 
+}
+.comp-2{
+    position: relative;
+    bottom: 12rem;
+    right: 2.5rem;
+}
+.second-heading h1{
+  font-weight: bold;
+}
+.section2{
+  background-image: 
+  url(
+"../../assets/Images/pngwing\ 1.png");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: -230px;
+  background-repeat:no-repeat;
+  background-position: right top;
+}
+.section3{
+  background-image: 
+  url(
+"../../assets/Images/Line\ 1.png"),url("../../assets/Images/Line\ 2.png"),url("../../assets/Images/Line\ 3.png");
+  background-size: "cover";
+  height: 100vh;
+  background-repeat:no-repeat;
+  background-position: top, center,bottom;
+  margin-top: -100px;
+}
+.plan-details{
+  width: 40%;
+  text-align: center;
+
+}
